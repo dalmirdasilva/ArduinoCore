@@ -1,5 +1,3 @@
-WString.d WString.o:  \
- /usr/share/arduino/hardware/arduino/cores/arduino/WString.cpp \
-  /usr/share/arduino/hardware/arduino/cores/arduino/WString.h
+WString.d: ../WString.cpp ../WString.h
 
-/usr/share/arduino/hardware/arduino/cores/arduino/WString.h:
+../WString.h:

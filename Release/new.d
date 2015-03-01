@@ -1,4 +1,3 @@
-new.d new.o: /usr/share/arduino/hardware/arduino/cores/arduino/new.cpp \
-  /home/dalmir/workspace/ArduinoCore/new.h
+new.d: ../new.cpp /home/dalmir/storage/ArduinoCore/new.h
 
-/home/dalmir/workspace/ArduinoCore/new.h:
+/home/dalmir/storage/ArduinoCore/new.h:

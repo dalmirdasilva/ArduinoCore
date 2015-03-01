@@ -1,14 +1,10 @@
-wiring_digital.d wiring_digital.o:  \
- /usr/share/arduino/hardware/arduino/cores/arduino/wiring_digital.c \
-  /usr/share/arduino/hardware/arduino/cores/arduino/wiring_private.h \
-  /usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h \
-  /usr/share/arduino/hardware/arduino/cores/arduino/binary.h \
-  /usr/share/arduino/hardware/arduino/variants/standard/pins_arduino.h
+wiring_digital.d: ../wiring_digital.c ../wiring_private.h ../Arduino.h \
+ ../binary.h ../pins_arduino.h
 
-/usr/share/arduino/hardware/arduino/cores/arduino/wiring_private.h:
+../wiring_private.h:
 
-/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h:
+../Arduino.h:
 
-/usr/share/arduino/hardware/arduino/cores/arduino/binary.h:
+../binary.h:
 
-/usr/share/arduino/hardware/arduino/variants/standard/pins_arduino.h:
+../pins_arduino.h:

@@ -1,30 +1,30 @@
-main.d main.o: ../main.cpp /home/dalmir/workspace/ArduinoCore/Arduino.h \
-  /home/dalmir/workspace/ArduinoCore/binary.h \
-  /home/dalmir/workspace/ArduinoCore/WCharacter.h \
-  /home/dalmir/workspace/ArduinoCore/WString.h \
-  /home/dalmir/workspace/ArduinoCore/HardwareSerial.h \
-  /home/dalmir/workspace/ArduinoCore/Stream.h \
-  /home/dalmir/workspace/ArduinoCore/Print.h \
-  /home/dalmir/workspace/ArduinoCore/Printable.h \
-  /home/dalmir/workspace/ArduinoCore/new.h \
-  /home/dalmir/workspace/ArduinoCore/standard/pins_arduino.h
+main.d: ../main.cpp /home/dalmir/storage/ArduinoCore/Arduino.h \
+ /home/dalmir/storage/ArduinoCore/binary.h \
+ /home/dalmir/storage/ArduinoCore/WCharacter.h \
+ /home/dalmir/storage/ArduinoCore/WString.h \
+ /home/dalmir/storage/ArduinoCore/HardwareSerial.h \
+ /home/dalmir/storage/ArduinoCore/Stream.h \
+ /home/dalmir/storage/ArduinoCore/Print.h \
+ /home/dalmir/storage/ArduinoCore/Printable.h \
+ /home/dalmir/storage/ArduinoCore/new.h \
+ /home/dalmir/storage/ArduinoCore/pins_arduino.h
 
-/home/dalmir/workspace/ArduinoCore/Arduino.h:
+/home/dalmir/storage/ArduinoCore/Arduino.h:
 
-/home/dalmir/workspace/ArduinoCore/binary.h:
+/home/dalmir/storage/ArduinoCore/binary.h:
 
-/home/dalmir/workspace/ArduinoCore/WCharacter.h:
+/home/dalmir/storage/ArduinoCore/WCharacter.h:
 
-/home/dalmir/workspace/ArduinoCore/WString.h:
+/home/dalmir/storage/ArduinoCore/WString.h:
 
-/home/dalmir/workspace/ArduinoCore/HardwareSerial.h:
+/home/dalmir/storage/ArduinoCore/HardwareSerial.h:
 
-/home/dalmir/workspace/ArduinoCore/Stream.h:
+/home/dalmir/storage/ArduinoCore/Stream.h:
 
-/home/dalmir/workspace/ArduinoCore/Print.h:
+/home/dalmir/storage/ArduinoCore/Print.h:
 
-/home/dalmir/workspace/ArduinoCore/Printable.h:
+/home/dalmir/storage/ArduinoCore/Printable.h:
 
-/home/dalmir/workspace/ArduinoCore/new.h:
+/home/dalmir/storage/ArduinoCore/new.h:
 
-/home/dalmir/workspace/ArduinoCore/standard/pins_arduino.h:
+/home/dalmir/storage/ArduinoCore/pins_arduino.h:
