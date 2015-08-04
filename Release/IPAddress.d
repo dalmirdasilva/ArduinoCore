@@ -1,36 +1,40 @@
-IPAddress.d: ../IPAddress.cpp /home/dalmir/storage/ArduinoCore/Arduino.h \
- /home/dalmir/storage/ArduinoCore/binary.h \
- /home/dalmir/storage/ArduinoCore/WCharacter.h \
- /home/dalmir/storage/ArduinoCore/WString.h \
- /home/dalmir/storage/ArduinoCore/HardwareSerial.h \
- /home/dalmir/storage/ArduinoCore/Stream.h \
- /home/dalmir/storage/ArduinoCore/Print.h \
- /home/dalmir/storage/ArduinoCore/Printable.h \
- /home/dalmir/storage/ArduinoCore/new.h \
- /home/dalmir/storage/ArduinoCore/pins_arduino.h \
- /home/dalmir/storage/ArduinoCore/IPAddress.h \
- /home/dalmir/storage/ArduinoCore/Printable.h
+IPAddress.d: ../IPAddress.cpp \
+ /work/opensource/personal/ArduinoCore/Arduino.h \
+ /work/opensource/personal/ArduinoCore/binary.h \
+ /work/opensource/personal/ArduinoCore/WCharacter.h \
+ /work/opensource/personal/ArduinoCore/WString.h \
+ /work/opensource/personal/ArduinoCore/HardwareSerial.h \
+ /work/opensource/personal/ArduinoCore/Stream.h \
+ /work/opensource/personal/ArduinoCore/Print.h \
+ /work/opensource/personal/ArduinoCore/Printable.h \
+ /work/opensource/personal/ArduinoCore/USBAPI.h \
+ /work/opensource/personal/ArduinoCore/Arduino.h \
+ /opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ /work/opensource/personal/ArduinoCore/IPAddress.h \
+ /work/opensource/personal/ArduinoCore/Printable.h
 
-/home/dalmir/storage/ArduinoCore/Arduino.h:
+/work/opensource/personal/ArduinoCore/Arduino.h:
 
-/home/dalmir/storage/ArduinoCore/binary.h:
+/work/opensource/personal/ArduinoCore/binary.h:
 
-/home/dalmir/storage/ArduinoCore/WCharacter.h:
+/work/opensource/personal/ArduinoCore/WCharacter.h:
 
-/home/dalmir/storage/ArduinoCore/WString.h:
+/work/opensource/personal/ArduinoCore/WString.h:
 
-/home/dalmir/storage/ArduinoCore/HardwareSerial.h:
+/work/opensource/personal/ArduinoCore/HardwareSerial.h:
 
-/home/dalmir/storage/ArduinoCore/Stream.h:
+/work/opensource/personal/ArduinoCore/Stream.h:
 
-/home/dalmir/storage/ArduinoCore/Print.h:
+/work/opensource/personal/ArduinoCore/Print.h:
 
-/home/dalmir/storage/ArduinoCore/Printable.h:
+/work/opensource/personal/ArduinoCore/Printable.h:
 
-/home/dalmir/storage/ArduinoCore/new.h:
+/work/opensource/personal/ArduinoCore/USBAPI.h:
 
-/home/dalmir/storage/ArduinoCore/pins_arduino.h:
+/work/opensource/personal/ArduinoCore/Arduino.h:
 
-/home/dalmir/storage/ArduinoCore/IPAddress.h:
+/opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h:
 
-/home/dalmir/storage/ArduinoCore/Printable.h:
+/work/opensource/personal/ArduinoCore/IPAddress.h:
+
+/work/opensource/personal/ArduinoCore/Printable.h:
