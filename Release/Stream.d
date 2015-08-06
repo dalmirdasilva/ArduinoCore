@@ -1,7 +1,6 @@
 Stream.d: ../Stream.cpp ../Arduino.h ../binary.h ../WCharacter.h \
  ../WString.h ../HardwareSerial.h ../Stream.h ../Print.h ../Printable.h \
- ../USBAPI.h \
- /opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h
+ /home/dalmir/storage/ArduinoCore/new.h ../pins_arduino.h
 
 ../Arduino.h:
 
@@ -19,6 +18,6 @@ Stream.d: ../Stream.cpp ../Arduino.h ../binary.h ../WCharacter.h \
 
 ../Printable.h:
 
-../USBAPI.h:
+/home/dalmir/storage/ArduinoCore/new.h:
 
-/opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h:
+../pins_arduino.h:

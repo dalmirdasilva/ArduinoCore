@@ -1,6 +1,7 @@
 Tone.d: ../Tone.cpp ../Arduino.h ../binary.h ../WCharacter.h ../WString.h \
- ../HardwareSerial.h ../Stream.h ../Print.h ../Printable.h ../USBAPI.h \
- /opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h
+ ../HardwareSerial.h ../Stream.h ../Print.h ../Printable.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/new.h \
+ ../pins_arduino.h
 
 ../Arduino.h:
 
@@ -18,6 +19,6 @@ Tone.d: ../Tone.cpp ../Arduino.h ../binary.h ../WCharacter.h ../WString.h \
 
 ../Printable.h:
 
-../USBAPI.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/new.h:
 
-/opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h:
+../pins_arduino.h:

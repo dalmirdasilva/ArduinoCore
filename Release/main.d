@@ -1,33 +1,31 @@
-main.d: ../main.cpp /work/opensource/personal/ArduinoCore/Arduino.h \
- /work/opensource/personal/ArduinoCore/binary.h \
- /work/opensource/personal/ArduinoCore/WCharacter.h \
- /work/opensource/personal/ArduinoCore/WString.h \
- /work/opensource/personal/ArduinoCore/HardwareSerial.h \
- /work/opensource/personal/ArduinoCore/Stream.h \
- /work/opensource/personal/ArduinoCore/Print.h \
- /work/opensource/personal/ArduinoCore/Printable.h \
- /work/opensource/personal/ArduinoCore/USBAPI.h \
- /work/opensource/personal/ArduinoCore/Arduino.h \
- /opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h
+main.d: ../main.cpp \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Arduino.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/binary.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/WCharacter.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/WString.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/HardwareSerial.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Stream.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Print.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Printable.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/new.h \
+ /work/opensource/personal/microcontroller/arduino/core/ArduinoCore/pins_arduino.h
 
-/work/opensource/personal/ArduinoCore/Arduino.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Arduino.h:
 
-/work/opensource/personal/ArduinoCore/binary.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/binary.h:
 
-/work/opensource/personal/ArduinoCore/WCharacter.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/WCharacter.h:
 
-/work/opensource/personal/ArduinoCore/WString.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/WString.h:
 
-/work/opensource/personal/ArduinoCore/HardwareSerial.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/HardwareSerial.h:
 
-/work/opensource/personal/ArduinoCore/Stream.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Stream.h:
 
-/work/opensource/personal/ArduinoCore/Print.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Print.h:
 
-/work/opensource/personal/ArduinoCore/Printable.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/Printable.h:
 
-/work/opensource/personal/ArduinoCore/USBAPI.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/new.h:
 
-/work/opensource/personal/ArduinoCore/Arduino.h:
-
-/opt/arduino-1.6.5/hardware/arduino/avr/variants/standard/pins_arduino.h:
+/work/opensource/personal/microcontroller/arduino/core/ArduinoCore/pins_arduino.h:
