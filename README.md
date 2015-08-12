@@ -15,6 +15,10 @@ ArduinoCore is a Eclipse project based on the Arduino 1.6.5.
 - Open Eclipse
 - Go to File > Import... > General > Existing Project into Workspace > Next > Browse to the cloned path > OK > Finish.
 
+## Install dep.
+
+sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude
+
 ## Build 
 
 Build the project:  Right click on ArduinoCore project > Build Project...
