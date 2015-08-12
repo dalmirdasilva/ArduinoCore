@@ -47,3 +47,5 @@ I am using this style for tabs:
 }
 You can specify tabs height using the swt-tab-height option. It's value sets tab height ignoring the font size.
 ```
+
+Icons using too much space? export SWT_GTK3=0 (https://bugs.eclipse.org/bugs/show_bug.cgi?id=438346)
