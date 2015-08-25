@@ -1,3 +1,4 @@
+
 /*
 SoftwareSerial.cpp (formerly NewSoftSerial.cpp) - 
 Multi-instance software serial library for Arduino/Wiring
@@ -43,6 +44,7 @@ http://arduiniana.org.
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 #include <util/delay_basic.h>
+#include <stdint.h>
 
 //
 // Statics
