@@ -17,7 +17,9 @@ ArduinoCore is a Eclipse project based on the Arduino 1.6.5.
 
 ## Install dep.
 
+```
 sudo apt-get install gcc-avr binutils-avr gdb-avr avr-libc avrdude
+```
 
 ## Build 
 
@@ -27,15 +29,15 @@ Build the project:  Right click on ArduinoCore project > Build Project...
 
 If you are not satisfied with the huge eclipse tabs, take a look at this: http://stackoverflow.com/questions/11805784/very-large-tabs-in-eclipse-panes-on-ubuntu, look at the answer from http://stackoverflow.com/users/290339/akond, he says:
 
+> Style of tabs can be changed in Eclipse 4.2 by editing CSS. You can change styles directly in Eclipse Preferences window > after installing the E4 CSS editor plug-in.
+> 
+> Go to menu Help > Install new software, then install E4 CSS editor (Incubation) plug-in using Eclipse 4 update site (add > this link: http://download.eclipse.org/e4/updates/0.12).
+> 
+> After restart, go to Window > Preferences, General > Appearance and now you can edit styles here for any selected theme.
+> 
+> I am using this style for tabs:
+> 
 ```
-Style of tabs can be changed in Eclipse 4.2 by editing CSS. You can change styles directly in Eclipse Preferences window after installing the E4 CSS editor plug-in.
-
-Go to menu Help > Install new software, then install E4 CSS editor (Incubation) plug-in using Eclipse 4 update site (add this link: http://download.eclipse.org/e4/updates/0.12).
-
-After restart, go to Window > Preferences, General > Appearance and now you can edit styles here for any selected theme.
-
-I am using this style for tabs:
-
 .MPartStack {
   font-size: 9;
   font-family: Liberation Sans;
@@ -45,7 +47,7 @@ I am using this style for tabs:
   swt-simple: false;
   swt-mru-visible: false;
 }
-You can specify tabs height using the swt-tab-height option. It's value sets tab height ignoring the font size.
 ```
+> You can specify tabs height using the swt-tab-height option. It's value sets tab height ignoring the font size.
 
 Icons using too much space? export SWT_GTK3=0 (https://bugs.eclipse.org/bugs/show_bug.cgi?id=438346)
