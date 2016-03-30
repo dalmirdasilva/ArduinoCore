@@ -18,7 +18,7 @@ sudo apt-get install git gcc-avr binutils-avr gdb-avr avr-libc avrdude
 
 ## Clone and import
 
-- Clone this repository: git clone git@github.com:dalmirdasilva/ArduinoCore.git
+- Clone this repository: ```git clone git@github.com:dalmirdasilva/ArduinoCore.git```
 - Open Eclipse
 - Go to File > Import... > General > Existing Project into Workspace > Next > Browse to the cloned path > OK > Finish.
 
@@ -30,7 +30,7 @@ Build the project:  Right click on ArduinoCore project > Build Project...
 
 #### Clone, import, setup and build.
 
-- Clone this simple sketch example: https://github.com/dalmirdasilva/ArduinoEclipseSketch
+- Clone this simple sketch example: ```git clone git@github.com/dalmirdasilva/ArduinoEclipseSketch.git```
 - Open it: Go to File > Import... > General > Existing Project into Workspace > Next > Browse to the cloned path > OK > Finish.
 - Right click on the opened project > Properties > C/C++ Build > Settings. 
 - On the AVR C++ Compiler entry, select Directories. Make sure the include paths contains the "${workspace_loc:/ArduinoCore}" and "${workspace_loc:/ArduinoCore/variants/standard}" (maybe you are using not an standard Arduino, then choose the appropriate variant).
