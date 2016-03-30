@@ -31,7 +31,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}}&quot;"/>
 								</option>
 								<option id="de.innot.avreclipse.asm.option.flags.459911277" name="Other GCC Flags" superClass="de.innot.avreclipse.asm.option.flags" value="" valueType="string"/>
-								<option id="de.innot.avreclipse.asm.option.warnings.nowarn.1334196344" superClass="de.innot.avreclipse.asm.option.warnings.nowarn" value="true" valueType="boolean"/>
+								<option id="de.innot.avreclipse.asm.option.warnings.nowarn.1334196344" name="Suppress warnings (-W)" superClass="de.innot.avreclipse.asm.option.warnings.nowarn" value="true" valueType="boolean"/>
 								<inputType id="de.innot.avreclipse.tool.assembler.input.1584494624" superClass="de.innot.avreclipse.tool.assembler.input"/>
 							</tool>
 							<tool errorParsers="org.eclipse.cdt.core.GCCErrorParser" id="de.innot.avreclipse.tool.compiler.winavr.lib.release.795236369" name="AVR Compiler" superClass="de.innot.avreclipse.tool.compiler.winavr.lib.release">
@@ -48,9 +48,9 @@
 								<option id="de.innot.avreclipse.cppcompiler.option.optimize.1578904570" name="Optimization Level" superClass="de.innot.avreclipse.cppcompiler.option.optimize" value="de.innot.avreclipse.cppcompiler.optimize.size" valueType="enumerated"/>
 								<option id="de.innot.avreclipse.cppcompiler.option.incpath.148338935" name="Include Paths (-I)" superClass="de.innot.avreclipse.cppcompiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libraries/SoftwareSerial}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libraries/SoftwareSerial/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/variants/standard}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libraries/Wire/utility}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libraries/Wire/src}&quot;"/>
 								</option>
 								<inputType id="de.innot.avreclipse.cppcompiler.input.1670674126" superClass="de.innot.avreclipse.cppcompiler.input"/>
 							</tool>
