@@ -19,6 +19,10 @@
 #ifndef _ADAFRUIT_ST7735H_
 #define _ADAFRUIT_ST7735H_
 
+#ifndef ARDIONO
+#define ARDUINO 100
+#endif
+
 #if ARDUINO >= 100
  #include "Arduino.h"
  #include "Print.h"
