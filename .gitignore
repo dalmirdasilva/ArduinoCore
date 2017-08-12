@@ -24,3 +24,5 @@ Release/*
 Debug/*
 
 /Release/
+Release
+Debug
